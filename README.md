@@ -1,26 +1,23 @@
-# Consent and Company Brain papers
+# Papers by Alexandru Rada
 
-Public thesis edition 1.0 · Alexandru Rada · 11 October 2026
+Two separate research manuscripts, with distinct subjects, audiences and annexes. Free to read and download. Edition 1.1, 11 October 2026.
 
-This collection will present two connected arguments: how AI-mediated learning can affect human authority, and how an agent system can preserve useful work as traceable knowledge and tested procedures.
+## Company Brain
 
-## Read the papers
+**From Human Learning to Accountable Agent Orchestration** develops an engineering architecture for durable context, transferable procedures, source-bound reuse and checked agent work. It includes formal contracts, worked scenarios, MAPS illustrations and a controlled evaluation design.
 
-- [Company Brain: Knowledge That Remains Useful](company-brain.md) · [PDF](company-brain.pdf) · [Word](company-brain.docx)
-- [The Architecture of Consent](architecture-of-consent.md) · [PDF](architecture-of-consent.pdf) · [Word](architecture-of-consent.docx)
-- [Illustrated annexes and adoption guide](annexes-and-adoption-guide.md) · [PDF](annexes-and-adoption-guide.pdf) · [Word](annexes-and-adoption-guide.docx)
-- [Linked reading map](reading-map.html)
+[Read](company-brain.md) · [PDF](company-brain.pdf) · [Editable Word](company-brain.docx) · [Technical annexes](technical-annexes.pdf) · [Educational fixture](examples/demo.py)
 
-The Company Brain thesis develops cumulative expertise through scoped memory, bounded execution and revisable procedures. The consent thesis asks who shapes the conditions of human choice when assistance becomes a continuing source of methods and interpretation. The annexes connect the arguments to implementation and evaluation.
+## The Architecture of Consent
 
-## Reproduce the teaching example
+**AI-mediated learning, collective practice and authority over the conditions of choice** develops a philosophical argument about assistance, influence and institutional revisability. It considers rival explanations and proposes empirical tests of its cumulative hypothesis.
 
-Run `python examples/demo.py` with Python 3.10 or newer. Five deterministic tests cover current retrieval, correction invalidation, project isolation, candidate exclusion and artifact tampering. They make no model or network calls. This example is not a production runtime or a performance benchmark.
+[Read](architecture-of-consent.md) · [PDF](architecture-of-consent.pdf) · [Editable Word](architecture-of-consent.docx) · [Analytical annex](consent-annex.pdf)
 
-## Evidence and contributions
+## Reading and discussion
 
-These are thesis papers with proposed research, not peer-reviewed findings. Discuss a specific proposition, supply a counterexample, reproduce a mechanism or propose a measurable comparison. Preserve the distinction between published research, design inference, illustrative examples and observed test results.
+[Reading room](index.html) · [Release checks](VERIFICATION.md) · [Rights](RIGHTS.md)
 
-See [citation metadata](CITATION.cff) and [rights](RIGHTS.md). No DOI, arXiv acceptance or Hugging Face indexing is claimed.
+For scholarly feedback, open an issue with the paper, section, proposed correction and supporting source. Suggested edits may be submitted as a pull request; they do not change the published edition until reviewed. Please keep personal or confidential material out of public discussions.
 
-This repository contains publication material only. The operational system and commercial implementation are maintained separately.
+These are author-issued research manuscripts. Proposed studies are distinguished from observed results. The educational example tests five narrow invariants; the private Company Brain implementation and its licensed dependencies are not distributed here. No journal acceptance or DOI is asserted.

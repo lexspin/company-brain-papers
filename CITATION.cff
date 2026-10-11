@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "Please cite the relevant paper title and this edition; no DOI has been assigned."
-title: "Consent and Company Brain: Thesis Papers and Illustrated Adoption Guide"
+message: "Please cite the individual paper title and edition. No DOI has been assigned."
+title: "Company Brain Papers: Two Independent Research Manuscripts"
 type: misc
 authors:
   - family-names: Rada
     given-names: Alexandru
-version: 1.0.0
-abstract: "A thesis collection on cumulative expertise, scoped agent memory, bounded execution and revisable human authority, with illustrated annexes and a synthetic teaching example."
+version: 1.1.0
+date-released: 2026-10-11
+url: "https://github.com/lexspin/company-brain-papers"
