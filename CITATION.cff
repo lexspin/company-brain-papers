@@ -5,6 +5,6 @@ type: misc
 authors:
   - family-names: Rada
     given-names: Alexandru
-version: 1.1.0
+version: 1.1.1
 date-released: 2026-10-11
 url: "https://github.com/lexspin/company-brain-papers"
