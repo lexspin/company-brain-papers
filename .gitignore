@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.gitattributes
 !annexes-and-adoption-guide.docx
 !annexes-and-adoption-guide.html
 !annexes-and-adoption-guide.md
@@ -23,4 +24,3 @@
 !figures/task-map.png
 !figures/
 !examples/
-!.gitattributes
